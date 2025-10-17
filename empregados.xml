@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empregados>
+    <empregado id="1" tipo="horista">
+        <nome>Joao da Silva</nome>
+        <endereco>Rua dos Jooes, 333 - Campina Grande</endereco>
+        <agendaPagamento>semanal 2</agendaPagamento>
+        <sindicalizado>false</sindicalizado>
+        <salarioHora>23.00</salarioHora>
+        <metodoPagamento>emMaos</metodoPagamento>
+    </empregado>
+</empregados>
